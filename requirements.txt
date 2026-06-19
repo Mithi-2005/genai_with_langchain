@@ -8,3 +8,6 @@ pymupdf
 wikipedia
 langchain-text-splitters
 langchain-openai
+langchain-ollama
+sentence_transformers
+langchain_huggingface
